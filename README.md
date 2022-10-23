@@ -35,7 +35,7 @@ THEN I find a concise, descriptive title<br>
 
 ## Installation
 
-https://github.com/bryanjeremysmith/Module1Challenge/index.html
+https://bryanjeremysmith.github.io/Module1Challenge/
 
 ## Usage
 
