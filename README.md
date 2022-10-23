@@ -39,7 +39,7 @@ https://github.com/bryanjeremysmith/Module1Challenge/index.html
 
 ## Usage
 
-![screenshot of index.html](./Develop/assets/images/screenshot.png)
+![screenshot of index.html](./assets/images/screenshot.png)
 
 ## Credits
 
